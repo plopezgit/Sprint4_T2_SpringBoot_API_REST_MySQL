@@ -1,4 +1,4 @@
-package cat.itacademy.barcelonactiva.cognoms.nom.s04.t02.n02.controller;
+package cat.itacademy.barcelonactiva.lopez.pedro.s04.t02.n02.controller;
 
 import java.rmi.ServerException;
 import java.util.HashMap;
@@ -16,8 +16,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import cat.itacademy.barcelonactiva.cognoms.nom.s04.t02.n02.domain.Fruit;
-import cat.itacademy.barcelonactiva.cognoms.nom.s04.t02.n02.service.FruitService;
+import cat.itacademy.barcelonactiva.lopez.pedro.s04.t02.n02.domain.Fruit;
+import cat.itacademy.barcelonactiva.lopez.pedro.s04.t02.n02.service.FruitService;
 
 @RestController
 @RequestMapping("fruits")

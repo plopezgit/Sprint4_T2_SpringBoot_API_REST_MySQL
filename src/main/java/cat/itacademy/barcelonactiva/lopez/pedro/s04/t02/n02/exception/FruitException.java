@@ -1,4 +1,4 @@
-package cat.itacademy.barcelonactiva.cognoms.nom.s04.t02.n02.exception;
+package cat.itacademy.barcelonactiva.lopez.pedro.s04.t02.n02.exception;
 
 import org.springframework.http.HttpStatus;
 

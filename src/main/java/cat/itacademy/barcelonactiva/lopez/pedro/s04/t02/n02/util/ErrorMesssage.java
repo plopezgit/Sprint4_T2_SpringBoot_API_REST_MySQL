@@ -1,4 +1,4 @@
-package cat.itacademy.barcelonactiva.cognoms.nom.s04.t02.n02.util;
+package cat.itacademy.barcelonactiva.lopez.pedro.s04.t02.n02.util;
 
 public class ErrorMesssage {
 	
